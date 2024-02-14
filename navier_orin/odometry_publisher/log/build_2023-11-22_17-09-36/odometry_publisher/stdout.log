@@ -1,0 +1,8 @@
+running egg_info
+creating build/odometry_publisher/gps_imu_localisation.egg-info
+writing build/odometry_publisher/gps_imu_localisation.egg-info/PKG-INFO
+writing dependency_links to build/odometry_publisher/gps_imu_localisation.egg-info/dependency_links.txt
+writing entry points to build/odometry_publisher/gps_imu_localisation.egg-info/entry_points.txt
+writing requirements to build/odometry_publisher/gps_imu_localisation.egg-info/requires.txt
+writing top-level names to build/odometry_publisher/gps_imu_localisation.egg-info/top_level.txt
+writing manifest file 'build/odometry_publisher/gps_imu_localisation.egg-info/SOURCES.txt'

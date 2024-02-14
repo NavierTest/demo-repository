@@ -1,0 +1,13 @@
+# RelativeLocation.srv
+
+# Request for calculating relative location
+float64 x   # X-coordinate of the target point
+float64 y   # Y-coordinate of the target point
+
+
+---
+# Response with relative angle and distance
+float64 angle_to_rotate   # Relative angle to rotate to the target
+float64 distance          # Distance between the two points
+bool success          # Indicates if the calculation was successful
+string message        # Additional message describing the result

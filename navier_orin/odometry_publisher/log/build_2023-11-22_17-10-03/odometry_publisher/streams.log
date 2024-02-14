@@ -1,0 +1,32 @@
+[0.622s] Invoking command in '/home/dev/ros2_ws/odometry_publisher': PYTHONPATH=/home/dev/ros2_ws/odometry_publisher/build/odometry_publisher/prefix_override:/home/dev/ros2_ws/odometry_publisher/install/odometry_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/odometry_publisher build --build-base /home/dev/ros2_ws/odometry_publisher/build/odometry_publisher/build install --record /home/dev/ros2_ws/odometry_publisher/build/odometry_publisher/install.log --single-version-externally-managed
+[0.874s] running egg_info
+[0.874s] creating build/odometry_publisher/odometry_publisher.egg-info
+[0.874s] writing build/odometry_publisher/odometry_publisher.egg-info/PKG-INFO
+[0.875s] writing dependency_links to build/odometry_publisher/odometry_publisher.egg-info/dependency_links.txt
+[0.875s] writing entry points to build/odometry_publisher/odometry_publisher.egg-info/entry_points.txt
+[0.875s] writing requirements to build/odometry_publisher/odometry_publisher.egg-info/requires.txt
+[0.875s] writing top-level names to build/odometry_publisher/odometry_publisher.egg-info/top_level.txt
+[0.875s] writing manifest file 'build/odometry_publisher/odometry_publisher.egg-info/SOURCES.txt'
+[0.877s] reading manifest file 'build/odometry_publisher/odometry_publisher.egg-info/SOURCES.txt'
+[0.877s] writing manifest file 'build/odometry_publisher/odometry_publisher.egg-info/SOURCES.txt'
+[0.878s] running build
+[0.878s] running build_py
+[0.878s] creating /home/dev/ros2_ws/odometry_publisher/build/odometry_publisher/build
+[0.878s] creating /home/dev/ros2_ws/odometry_publisher/build/odometry_publisher/build/lib
+[0.878s] creating /home/dev/ros2_ws/odometry_publisher/build/odometry_publisher/build/lib/odometry_publisher
+[0.879s] copying odometry_publisher/odometry_publisher.py -> /home/dev/ros2_ws/odometry_publisher/build/odometry_publisher/build/lib/odometry_publisher
+[0.879s] copying odometry_publisher/__init__.py -> /home/dev/ros2_ws/odometry_publisher/build/odometry_publisher/build/lib/odometry_publisher
+[0.879s] running install
+[0.879s] running install_lib
+[0.879s] creating /home/dev/ros2_ws/odometry_publisher/install/odometry_publisher/lib/python3.10/site-packages/odometry_publisher
+[0.879s] copying /home/dev/ros2_ws/odometry_publisher/build/odometry_publisher/build/lib/odometry_publisher/odometry_publisher.py -> /home/dev/ros2_ws/odometry_publisher/install/odometry_publisher/lib/python3.10/site-packages/odometry_publisher
+[0.879s] copying /home/dev/ros2_ws/odometry_publisher/build/odometry_publisher/build/lib/odometry_publisher/__init__.py -> /home/dev/ros2_ws/odometry_publisher/install/odometry_publisher/lib/python3.10/site-packages/odometry_publisher
+[0.880s] byte-compiling /home/dev/ros2_ws/odometry_publisher/install/odometry_publisher/lib/python3.10/site-packages/odometry_publisher/odometry_publisher.py to odometry_publisher.cpython-310.pyc
+[0.881s] byte-compiling /home/dev/ros2_ws/odometry_publisher/install/odometry_publisher/lib/python3.10/site-packages/odometry_publisher/__init__.py to __init__.cpython-310.pyc
+[0.881s] running install_data
+[0.881s] running install_egg_info
+[0.883s] Copying build/odometry_publisher/odometry_publisher.egg-info to /home/dev/ros2_ws/odometry_publisher/install/odometry_publisher/lib/python3.10/site-packages/odometry_publisher-0.0.0-py3.10.egg-info
+[0.884s] running install_scripts
+[0.902s] Installing odometry_publisher script to /home/dev/ros2_ws/odometry_publisher/install/odometry_publisher/lib/odometry_publisher
+[0.902s] writing list of installed files to '/home/dev/ros2_ws/odometry_publisher/build/odometry_publisher/install.log'
+[0.924s] Invoked command in '/home/dev/ros2_ws/odometry_publisher' returned '0': PYTHONPATH=/home/dev/ros2_ws/odometry_publisher/build/odometry_publisher/prefix_override:/home/dev/ros2_ws/odometry_publisher/install/odometry_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/odometry_publisher build --build-base /home/dev/ros2_ws/odometry_publisher/build/odometry_publisher/build install --record /home/dev/ros2_ws/odometry_publisher/build/odometry_publisher/install.log --single-version-externally-managed
